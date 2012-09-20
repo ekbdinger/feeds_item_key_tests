@@ -1,0 +1,32 @@
+September 20, 2012
+
+Did some testing with feeds this morning. I’m going to turn the content type I created into a feature.
+
+Trying to think if there is any other configuration that I can put into a feature.
+
+Let’s see.
+
+So I created 2 content types
+
+	--Item Key spreadsheet (this is the most detailed one, 6 fields from the spreadsheet
+	--Item Key Import is the simple one that is simply just a title and body
+
+
+The feed importers I created are called
+	--Item Key Spread take2  (item key spreadsheet)
+	--Item key import  (item key import)
+
+
+I also just created 2 content types to attach the node importers too
+
+	--Feed (Item Key Import)
+	--Feed Item Key (Item Key spreadsheet)
+
+
+Feature Name = item key spreadsheet
+
+2nd feature name = IK Simple import
+
+Ok, so created the two features nice.
+
+Let’s put them into version control and github

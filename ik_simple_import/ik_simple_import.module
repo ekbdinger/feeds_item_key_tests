@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the IK Simple Import feature.
+ */
+
+include_once 'ik_simple_import.features.inc';
